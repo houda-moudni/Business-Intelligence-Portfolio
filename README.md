@@ -27,18 +27,28 @@ The data model :
 ## Dashboards 
 
 - **Navigation page**
+
+
 ![Alt text](images/Dashboards/nav_page.png)
 
 - **Circuit page**
+
+  
 ![Alt text](images/Dashboards/circuit_page.png)
 
 - **Pilote page**
+
+  
 ![Alt text](images/Dashboards/pilote_page.png)
 
 - **Constructors page**
+
+  
 ![Alt text](images/Dashboards/constructors_page.png)
 
 - **Fans page**
+
+  
 ![Alt text](images/Dashboards/fans_page.png)
 
 ## Contact
