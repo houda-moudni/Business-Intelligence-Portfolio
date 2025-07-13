@@ -19,6 +19,12 @@ This Power BI project analyzes Formula 1 fans' perspectives collected via Google
 - **Google Forms Survey**: Custom survey designed to collect F1 fans’ opinions.
 - **Kaggle Dataset**: Comprehensive dataset containing constructors, drivers, circuits, and race results.
   - [Formula 1 (1950 - 2023) Dataset on Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+![Alt text](images/data_model.png)
 
+## Dashboards 
 
-
+![Alt text](images/Dashboards/nav_page.png)
+![Alt text](images/Dashboards/circuit_page.png)
+![Alt text](images/Dashboards/pilote_page.png)
+![Alt text](images/Dashboards/constructors_page.png)
+![Alt text](images/Dashboards/fans_page.png)
