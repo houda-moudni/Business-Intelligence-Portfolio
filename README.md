@@ -37,3 +37,7 @@ This Power BI project analyzes Formula 1 fans' perspectives collected via Google
 
 - **Fans page**
 ![Alt text](images/Dashboards/fans_page.png)
+
+## Contact
+
+For questions or collaboration opportunities, please contact [houdamoudni.01@gmail.com].
